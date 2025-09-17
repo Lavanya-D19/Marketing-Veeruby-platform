@@ -15,3 +15,10 @@
 - Write your answers in a separate file or notebook.  
 - Compare with the module reading material.  
 - Save your quiz answers in `/assets/downloads/` if submitting.
+---
+
+### Resources & Admin
+
+- 📚 [Resources (Reading List)](./resources/reading-list.md)  
+- 📝 [Update Log](../admin/ADMIN_Update_Log.md)  
+- ⚙️ [Update Process](../admin/Update_Process.md)

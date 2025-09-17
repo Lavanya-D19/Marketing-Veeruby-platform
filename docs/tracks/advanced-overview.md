@@ -20,3 +20,7 @@ Strategy, experiments, and growth loops.
 
 ⬅️ Back: [Intermediate Track](./intermediate-overview.md)
 modules/foundations/README.md
+---
+
+## Final Step
+➡️ Complete the [Capstone Project](../modules/capstone/README.md) to bring all skills together.
