@@ -1,0 +1,12 @@
+{
+  "extends": ["plugin:react/recommended"],
+  "plugins": ["react"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": { "ecmaFeatures": { "jsx": true } },
+  "settings": { "react": { "version": "detect" } },
+  "rules": {
+    "react/style-prop-object": "error",
+    "react/react-in-jsx-scope": "off",
+    "react/prop-types": "off"
+  }
+}

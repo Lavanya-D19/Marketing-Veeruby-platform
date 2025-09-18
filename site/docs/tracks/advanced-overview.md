@@ -1,6 +1,6 @@
 # Advanced Track — Overview
 
-<p style="color:#555;margin:0;">Level up to strategy and growth</p>
+<p><span style={{ color: "#555" }}>Level up to strategy and growth</span></p>
 <hr/>
 
 ## Goal

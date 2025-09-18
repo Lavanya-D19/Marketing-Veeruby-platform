@@ -1,6 +1,6 @@
 # Beginner Track — Overview
 
-<p style="color:#555;margin:0;">Start with the fundamentals</p>
+<p><span style={{ color: "#555" }}>Start with the fundamentals</span></p>
 <hr/>
 
 ## Goal

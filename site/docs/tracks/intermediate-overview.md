@@ -1,6 +1,6 @@
 # Intermediate Track — Overview
 
-<p style="color:#555;margin:0;">Move from learning to execution</p>
+<p><span style={{ color: "#555" }}>Move from learning to execution</span></p>
 <hr/>
 
 ## Goal
